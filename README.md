@@ -25,13 +25,20 @@
 
 ### Project Overview: Attainment System 
 
-The Attainment Calculation System is a comprehensive software solution designed to streamline and automate the process of calculating course outcomes (COs) and program outcomes
-(POs) attainment within academic departments. The system facilitates collaboration between administrators and faculty members, providing tools for efficient data management, analysis,
-and reporting. Administrators have access to academic year details, subject information, and faculty assignments, enabling them to assign subjects to faculty members and monitor academic
-progress. Faculty members utilize individual subject interfaces to perform various actions, including adding or editing Course Outcomes, uploading articulation matrices, and calculating
-CO and PO attainment. The system supports the uploading of unit test and end semester marks, facilitating data-driven decision-making. Upon completion of steps, final PO attainment and
-articulation matrix column averages are displayed for administrator review and Attainment Calculation System empowers administrators to calculate the final attainment based on all subjects
-of the department, consolidating data from individual subjects.
+* The Attainment Calculation System is a comprehensive software solution designed to streamline and automate the process of calculating course outcomes (COs) and program outcomes
+(POs) attainment within academic departments.
+
+* The system facilitates collaboration between administrators and faculty members, providing tools for efficient data management, analysis, and reporting.
+
+* Administrators have access to academic year details, subject information, and faculty assignments, enabling them to assign subjects to faculty members and monitor academic
+progress.
+
+* Faculty members utilize individual subject interfaces to perform various actions, including adding or editing Course Outcomes, uploading articulation matrices, and calculating
+CO and PO attainment.
+
+* The system supports the uploading of unit test and end semester marks, facilitating data-driven decision-making.
+
+* Upon completion of steps, final PO attainment and articulation matrix column averages are displayed for administrator review and Attainment Calculation System empowers administrators to calculate the final attainment based on all subjects of the department, consolidating data from individual subjects.
 <br>
 <br>
 
@@ -90,44 +97,25 @@ of the department, consolidating data from individual subjects.
 <p align="center"><em>Final Attainment Data Generated for the Department</em></p>
  </div>
  <br>
- 
- <!--
-### Key Features:
+ <br>
 
-* Virtual Healthcare Platform: Our Virtual Medical Platform offers remote consultation services, allowing patients to access healthcare professionals from the comfort of their homes. This overcomes geographical barriers and improves healthcare accessibility.
 
-* Multilingual Support: To address language barriers, our platform provides multilingual support, enabling effective communication between patients and healthcare providers regardless of language differences.
-
-* AI-Based Pathology Lab Report Analysis: Our platform incorporates artificial intelligence technology to analyze pathology lab reports quickly and accurately, aiding in diagnosis and treatment planning.
-
-* Patient’s Medical Records Storage System: We offer a secure and centralized repository for storing patient medical records digitally. This ensures easy access to patient information, facilitating efficient and informed healthcare delivery.
-
-* Medication Reminder System: Our platform includes a medication reminder system that sends personalized reminders to patients, helping them adhere to their prescribed medication regimens and improve treatment outcomes.
-
- 
-
-### TechStack
-
+## TechStack
+<br>
 
 * [![React][React.js]][React-url]
-* [![Tailwind][tailwindcss.com]][tailwindcss-url]
+* [![Materialui][materialui.com]][materialui-url]
 * [![Node][Node.js]][Node-url]
 * [![Express][Express.js]][Express-url]
-* [![Flask][Flask.com]][Flask-url]
 * [![MongoDb][MongoDb.com]][MongoDb-url]
 
 
-### External API Used
+## Deployment
+<br>
 
-* ![razorpay.com]
-* ![zoom.com]
-* ![cloudinary.com]
-* ![twilio.com]
-* ![ultramsg.com]
-* ![email.js]
-* ![weglot.com]
+* [![vercel][vercel.com]][vercel-url]
+* [![render][render.com]][render-url]
 
--->
 
 
 <!-- GETTING STARTED -->
@@ -177,16 +165,19 @@ of the department, consolidating data from individual subjects.
 [MongoDb-url]: https://www.mongodb.com/
 [Flask.com]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
 [Flask-url]: https://flask.palletsprojects.com/en/3.0.x/
-
 [razorpay-url]: https://razorpay.com/
 [razorpay.com]: https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF
-
 [zoom-url]: https://zoom.us/
 [zoom.com]: https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white 
-
 [cloudinary.com]: https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white
 [ultramsg.com]: https://img.shields.io/badge/-ultramsg-13aa52?style=for-the-badge&logo=ultramsg&logoColor=white
 [email.js]: https://img.shields.io/badge/-emailjs-FFA116?style=for-the-badge&Color=white
 [weglot.com]: https://img.shields.io/badge/weglot-00599C?style=for-the-badge
 [twilio.com]: https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white
+[materialui.com]: https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white
+[materialui-url]: https://mui.com/material-ui/material-icons/
+[vercel.com]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+[vercel-url]: https://vercel.com/
+[render.com]: https://img.shields.io/badge/render-000000?style=for-the-badge&logo=render&logoColor=white
+[render-url]: https://render.com/
 
